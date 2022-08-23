@@ -1,2 +1,2 @@
 # nvim-config
-Nvim NVChad config
+My custom config for NVChad. for web development.
